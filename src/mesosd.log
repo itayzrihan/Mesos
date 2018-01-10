@@ -1,0 +1,4 @@
+2018-Jan-10 19:04:45.959212 INFO [daemon] Mesos v0.1.2.wayang003()
+2018-Jan-10 19:04:45.961674 INFO [daemon] Module folder: ./mesosd
+2018-Jan-10 19:04:45.986162 ERROR [currency] failed to parse coinbase tx from hard coded blob
+2018-Jan-10 19:04:45.986402 ERROR [currency] Failed to generate genesis block
